@@ -1,0 +1,37 @@
+body{
+	width: 50%;
+	background-color: #f3f3f3;
+	font-family: Arial;
+	margin: auto;
+}
+
+h1{
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#profession{
+	font-size: 14px;
+}
+
+.image{
+	text-align: center;
+}
+
+.image img{
+	border: 1px solid gray;
+}
+
+
+.info{
+	width: 70%;
+	margin-left:15%; 
+}
+
+.contacts{
+	margin-left: 40px;
+}
+
+ul, p, a{
+	font-size: 13px;
+}
