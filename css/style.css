@@ -1,7 +1,10 @@
 body{
-	width: 50%;
 	background-color: #f3f3f3;
 	font-family: Arial;
+}
+
+.wrapper {
+	width: 600px;
 	margin: auto;
 }
 
@@ -10,9 +13,6 @@ h1{
 	text-align: center;
 }
 
-#profession{
-	font-size: 14px;
-}
 
 .image{
 	text-align: center;
