@@ -1,4 +1,4 @@
-body{
+body {
 	background-color: #f3f3f3;
 	font-family: Arial;
 }
@@ -8,27 +8,30 @@ body{
 	margin: auto;
 }
 
-h1{
+h1 {
 	text-transform: uppercase;
 	text-align: center;
 }
 
+h2 {
+	font-size: 20px;
+}
 
-.image{
+.image {
 	text-align: center;
 }
 
-.image img{
+.image img {
 	border: 1px solid gray;
 }
 
 
-.info{
-	width: 70%;
-	margin-left:15%; 
+.info {
+	width: 450px;
+	margin: auto; 
 }
 
-.contacts{
+.contacts {
 	margin-left: 40px;
 }
 
